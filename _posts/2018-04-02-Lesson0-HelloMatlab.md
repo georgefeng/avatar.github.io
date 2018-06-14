@@ -4,7 +4,7 @@ title:      "MathModel.Lesson.0 HelloMatlab"
 subtitle:   "走近Matlab"
 date:       2018-04-02
 author:     "Feng"
-header-img: "img/post-bg-matlab.jpg"
+header-img: "img/post-bg-matlab.png"
 tags:
     - matlab
     - guide
